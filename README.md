@@ -22,13 +22,7 @@
     - [Install](#install)
     - [Run tests ](#run-tests-)
     - [Deployment ](#deployment-)
-  - [Author](#author)
-  - [🔭 Future Features ](#-future-features-)
-  - [🤝 Contributing ](#-contributing-)
-  - [⭐️ Show your support ](#️-show-your-support-)
-  - [🙏 Acknowledgments ](#-acknowledgments-)
-  - [❓ FAQ ](#-faq-)
-  - [📝 License ](#-license-)
+
 
 <!-- PROJECT DESCRIPTION -->
 
@@ -78,7 +72,7 @@ A tool that helps to organize your day. It simply lists the things that you need
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://miltonhenschel.github.io/ToDoList-App/)
+- [Live Demo Link Coming Soon](https://ToDo)
 <!--  - [Video presentation](https://www.loom.com/share/)-->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -104,11 +98,11 @@ In order to run this project you need:
 - [ ] Clone this repository to your desired folder:
 
 ```
-git clone https://github.com/miltonHenschel/ToDoList-App.git
+git clone https://github.com/blessdog/ToDoList.git
 ```
 
 ```
-cd ToDoList-App
+cd ToDoList
 ```
 
 - [ ] Open the file in your code editor
@@ -185,46 +179,15 @@ npm run deploy
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Author
-
-👥 Henschel Nketchogue M. <a name="authors"></a>
-
-- GitHub: [miltonHenschel](https://github.com/miltonHenschel)
-- LinkedIn: [henschelnketchoguem](https://www.linkedin.com/in/henschelnketchoguem/)
-- Twitter: [nketchogue](https://twitter.com/nketchogue)
-- Instagram: [mpatchiehenschel](https://www.instagram.com/mpatchiehenschel/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🔭 Future Features <a name="future-features"></a>
-
-- [ ] **Improve design**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🤝 Contributing <a name="contributing"></a>
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](../../issues/).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## ⭐️ Show your support <a name="support"></a>
-
-Give a ⭐️ if you like this project!
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-- [ ] **![](https://img.shields.io/badge/Microverse-blueviolet)**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## ❓ FAQ <a name="faq"></a>
 
 - **How to fix JavaScript + CSS + HTML linter errors?**
 
-  - Kindly use the following in your project's root directory:
+  - Try the following in your project's root directory:
 
   ```
   npx stylelint "**/*.{css,scss} --fix"
